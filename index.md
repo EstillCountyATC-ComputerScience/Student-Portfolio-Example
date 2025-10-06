@@ -1,9 +1,5 @@
 {% include nav.html %}
 
----
-Home
----
-
 Welcome! This is my portfolio for the **ATC Computer Science** pathway. It showcases real artifacts from our **student‑run IT department**:
 
 - Web team (Internet Technologies)
